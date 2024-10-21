@@ -1,6 +1,8 @@
 # HTTP_SERVER
 
 # Simple Java HTTP Server
+![http_server](https://github.com/user-attachments/assets/2283698f-47de-48f8-a96f-d2363d3156ed)
+
 
 A lightweight HTTP server built using pure Java, designed to handle basic HTTP requests and responses. This project is intended for learning the basics of networking, TCP connections, and HTTP protocol implementation in Java.
 
