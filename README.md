@@ -4,6 +4,10 @@
 
 A lightweight HTTP server built using pure Java, designed to handle basic HTTP requests and responses. This project is intended for learning the basics of networking, TCP connections, and HTTP protocol implementation in Java.
 
+## Main 
+![802f359f-b245-43c5-a68f-520be42a4268](https://github.com/user-attachments/assets/01bdcd39-e42a-479c-8e8a-75d7ed8f5ffc)
+
+
 ## Features
 - Handles basic HTTP GET requests
 - Implements a simple TCP 3-way handshake simulation
